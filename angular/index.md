@@ -22,3 +22,7 @@
 18. Internationalization (i18n)
 19. Deployment
 20. Advanced Topics
+
+## More Topics
+- [Angular Signal](/angular/signal.md)
+- [Angular Observables](/angular/signal.md)
