@@ -2,11 +2,11 @@
 
 # Angular Notes
 
-1. [Introduction to Angular](/introduction/introduction.md)
-2. [TypeScript Basics](/typescript-basics/typescript-basics.md)
-3. [Angular CLI](/angular-cli/angular-cli.md)
-4. [Components](/components/components.md)
-5. [Directives](/directives/directives.md)
+1. [Introduction to Angular](/angular/introduction/introduction.md)
+2. [TypeScript Basics](/angular/typescript-basics/typescript-basics.md)
+3. [Angular CLI](/angular/angular-cli/angular-cli.md)
+4. [Components](/angular/components/components.md)
+5. [Directives](/angular/directives/directives.md)
 6. Services and Dependency Injection
 7. Routing and Navigation
 8. Forms
